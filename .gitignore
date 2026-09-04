@@ -53,5 +53,5 @@ Temporary Items
 boost.json
 AGENTS.md
 CLAUDE.md
-.claude/
-.grok/
+/.claude
+/.grok
