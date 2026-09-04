@@ -49,6 +49,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Dev
+composer.dev.json
+
 # Boost
 boost.json
 AGENTS.md
